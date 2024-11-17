@@ -44,7 +44,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/STUDULER-4479A1?style=for-the-badge&logo=STUDULER&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/1822_PETMEETING-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/THE_FRUITS-F05138?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/THE_FRUITS-007396?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/ChoiceBook-F05138?style=for-the-badge&logo=STUDULER&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HealingWeb-E34F26?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MunhwaSaenghwal-232F3E?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
