@@ -40,7 +40,7 @@
 
 <br>
 
-<h3 align="center">📚 Project 📚</h3>
+<h3 align="center">🧩 Project 🧩</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/STUDULER-4479A1?style=for-the-badge&logo=STUDULER&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/1822_PETMEETING-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
