@@ -7,6 +7,14 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadaHong)
 <br>
 
+## 🎓 Education
+<br>
+Department of Computer Science and Engineering, Hanyang University
+Colegio Americano de Torreón (2016.03 - 2021.06)
+
+## Internship
+[2025] Inedit Corp. 앱/웹 풀스택
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align=center> 
