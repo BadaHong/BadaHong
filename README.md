@@ -10,14 +10,14 @@
 
 ## 🎓 Education
 <br>
-Department of Computer Science and Engineering, Hanyang University
-Colegio Americano de Torreón, México (2016.03 - 2021.06)
+Department of Computer Science and Engineering, Hanyang University  
+Colegio Americano de Torreón, México (2016.03 - 2021.06)  
 
 
 ## Internship
 <br>
-[2025] Inedit Corp. 앱/웹 풀스택
-<br>
+[2025] Inedit Corp. 앱/웹 풀스택  
+  
 
 
 
