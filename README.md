@@ -24,7 +24,7 @@ Department of Computer Science and Engineering, Hanyang University
 Colegio Americano de Torreón, México (2016.03 - 2021.06)
 <br><br>
 
-## 🧩 Project 🧩
+## 🧩 Project
 <div align="left">
   <img src="https://img.shields.io/badge/STUDULER-4479A1?style=for-the-badge&logo=STUDULER&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/1822_PETMEETING-5FA04E?style=for-the-badge&logo=1822_PETMEETING&logoColor=white" />&nbsp
@@ -46,8 +46,7 @@ Colegio Americano de Torreón, México (2016.03 - 2021.06)
 
 
 <!--내용 부분-->
-## ✨ Tech Stack ✨
-<br>
+## ✨ Tech Stack
 
 ### Language
 <div align=left> 
@@ -91,8 +90,6 @@ Colegio Americano de Torreón, México (2016.03 - 2021.06)
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/logo=mikro-orm&logoColor=white" />&nbsp
 </div>
-
-<br>
 
 ### 🛠 Tools 🛠
 <div align="left">
