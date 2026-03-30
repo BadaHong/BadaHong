@@ -18,10 +18,15 @@
 
 
 ## 🎓 Education
-Department of Computer Science and Engineering, Hanyang University
+Department of Computer Science and Engineering, Hanyang University (2022 ~)
 <br>
 Colegio Americano de Torreón, México (2016.03 - 2021.06)
 <br><br>
+
+## 👩🏻‍💻 Internship
+[2025] Inedit Corp. 앱/웹 풀스택
+<br>
+<br>
 
 ## 🧩 Project
 <div align="left">
@@ -36,13 +41,7 @@ Colegio Americano de Torreón, México (2016.03 - 2021.06)
 </div>
 
 <br><br>
-
-## 👩🏻‍💻 Internship
-[2025] Inedit Corp. 앱/웹 풀스택
 <br>
-<br>
-<br>
-
 
 <!--내용 부분-->
 ## ✨ Tech Stack
@@ -50,8 +49,8 @@ Colegio Americano de Torreón, México (2016.03 - 2021.06)
 ### Language
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 <div align=left>
@@ -64,30 +63,29 @@ Colegio Americano de Torreón, México (2016.03 - 2021.06)
 
 ### Front-End
 <div align=left> 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />&nbsp
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
 </div>
 
 ### Back-End
 <div align="left">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp
 </div>
 
 ### Database
 <div align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/logo=mikro-orm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/o-232F3E?style=for-the-badge&logoColor=white" />&nbsp
 </div>
 
 ### 🛠 Tools 🛠
