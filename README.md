@@ -85,7 +85,7 @@ Colegio Americano de Torreón, México (2016.03 - 2021.06)
 <div align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/o-232F3E?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MikroORM-232F3E?style=for-the-badge&logoColor=white" />&nbsp
 </div>
 
 ### 🛠 Tools 🛠
